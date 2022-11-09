@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover;
+    background-position:center;
+}
+
+canvas{
+    padding-top:85px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#back{
+    width:50px;
+    height:30px;
+    background-color: black;
+    color:white;
+    position:absolute;
+    left:calc(100vw - 100px);
+    padding-bottom:10px;
+    padding-top:5px;
+    border-radius:5px;
+    font-size:15px;
+}
